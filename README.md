@@ -66,4 +66,5 @@ git clone https://github.com/hatemogi/netty-startup
 
 ## 라이선스
 
-이 프로젝트의 슬라이드와 실습용 소스코드는 MIT라이선스를 따릅니다.
+이 프로젝트의 슬라이드와 실습용 소스코드는 MIT
+짜증났어어 라이선스를 따릅니다.
